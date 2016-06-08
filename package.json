@@ -1,0 +1,19 @@
+{
+  "name": "timezonepicker",
+  "version": "1.0.0",
+  "description": "Timezone picker utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surveysampling/timezonepicker.git"
+  },
+  "author": "ssi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surveysampling/timezonepicker/issues"
+  },
+  "homepage": "https://github.com/surveysampling/timezonepicker#readme"
+}
